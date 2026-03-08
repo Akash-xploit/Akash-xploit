@@ -1,19 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003554,100:00d4ff&height=200&section=header&text=YOUR%20NAME&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Blue%20Team%20%7C%20Cloud%20Security%20%7C%20DFIR&descAlignY=58&descSize=18&descColor=00d4ff)
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=Threat+Hunter+%F0%9F%94%8D;Cloud+Security+Engineer+%E2%98%81%EF%B8%8F;Incident+Responder+%F0%9F%9A%A8;Detection+Engineer+%F0%9F%9B%A1%EF%B8%8F;Log+Whisperer+%F0%9F%93%9C)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5C7FFF,100:1F51FF&height=200&section=header&text=AKASH%20REDDY%20KUKKALA&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Blue%20Team%20%7C%20Cloud%20Security%20%7C%20DFIR&descAlignY=58&descSize=18&descColor=00d4ff" width="100%" />
+</p>
 
 ---
-
 <!-- SOCIALS — minimal icon row -->
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:YOUR@EMAIL.COM"><img src="https://skillicons.dev/icons?i=gmail" width="40" title="Email"/></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@YOUR-MEDIUM"><img width="40" title="Medium" src="https://cdn.simpleicons.org/medium/ffffff"/></a>&nbsp;&nbsp;
-  <a href="https://linktr.ee/YOUR-LINKTREE"><img width="40" title="Linktree" src="https://cdn.simpleicons.org/linktree/43E55E"/></a>
+  <a href="https://www.linkedin.com/in/akashkukkala/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:akash.kukkala@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" title="Email"/></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@insighter9"><img width="40" title="Medium" src="https://cdn.simpleicons.org/medium/ffffff"/></a>&nbsp;&nbsp;
+  <a href="https://linktr.ee/akashkukkala"><img width="40" title="Linktree" src="https://cdn.simpleicons.org/linktree/43E55E"/></a>
 </div>
 
 ---
@@ -21,18 +16,18 @@
 ## 🖥️ Operator Profile
 
 ```bash
-┌─[SOC]─[YOUR NAME]
+┌─[SOC]─[Akash Reddy Kukkala]
 │
 ├─ role       →  Blue Team Engineer
-├─ focus      →  Cloud Security (AWS / Azure / GCP)
-├─ secondary  →  DFIR · Threat Detection · Detection Engineering
+├─ focus      →  Cloud Security (AWS / Azure)
+├─ secondary  →  DFIR · Threat Hunting · Detection Engineering
 │
 ├─[CURRENT OPS]
-├─ working on →  ...
-├─ learning   →  ...
-├─ fun fact   →  ...
+├─ working on →  AWS Secure Vault
+├─ learning   →  Detection Engineering · SIEM · Cloud Threat Modeling
+├─ fun fact   →  I build security labs to break & defend my own systems
 │
-└─ status     →  [██████████░░░░░░░░░░] HARDENING IN PROGRESS
+└─ status     →  [██████████░░░░░░░░░░] Building Blue Team Arsenal
 ```
 
 ---
