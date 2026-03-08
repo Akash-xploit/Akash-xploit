@@ -62,54 +62,66 @@
 
 ## 🧰 Tech Stack
 
-### ☁️ Cloud
-<div>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-</div>
+### ☁️ Cloud & Security
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/CloudTrail-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/GuardDuty-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security%20Hub-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/VPC-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/S3-4B5563?style=flat-square" />
+</p>
 
-### 🔍 SIEM & Detection
-<div>
-  <img src="https://skillicons.dev/icons?i=elasticsearch" />
-  <img src="https://cdn.simpleicons.org/splunk/ffffff" width="48" title="Splunk" style="padding:6px"/>
-  <img src="https://cdn.simpleicons.org/crowdstrike/E00020" width="48" title="CrowdStrike" style="padding:6px"/>
-  <img src="https://cdn.simpleicons.org/wazuh/3F51B5" width="48" title="Wazuh" style="padding:6px"/>
-</div>
+### 🔎 Detection, SIEM & Monitoring
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-005BBB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sigma-1F2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/KQL-1F2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/SPL-1F2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/Log%20Analysis-1F2937?style=flat-square" />
+</p>
 
-### 🧪 DFIR & Forensics
-<div>
-  <img src="https://skillicons.dev/icons?i=wireshark" />
-</div>
+### 🧪 DFIR & Threat Analysis
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Volatility-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/Velociraptor-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/Autopsy-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/TheHive-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/MISP-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/Incident%20Response-374151?style=flat-square" />
+</p>
 
-> Also use: `Volatility` · `Velociraptor` · `Autopsy` · `FTK` · `TheHive` · `MISP`
+### 💻 Scripting & Automation
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/YARA-111827?style=flat-square" />
+</p>
 
-### 💻 Languages & Scripting
-<div>
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell" />
-</div>
-
-> Also use: `KQL` · `SPL` · `Sigma Rules` · `YARA`
-
-### 🛠️ DevSecOps & Infra
-<div>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,linux,git" />
-</div>
+### 🛠️ Systems, Labs & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/System%20Hardening-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-0F172A?style=flat-square" />
+</p>
 
 ---
 
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=003554&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-xploit&bg_color=0d1117&color=6495ED&line=5C7FFF&point=ffffff&area=true&area_color=003554&hide_border=true"/>
 </div>
-
----
-
-## 📝 Latest Writeups
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Auto-updates via blog-post-workflow GitHub Action — https://github.com/gautamkrishnar/blog-post-workflow -->
-- 🔐 Coming soon...
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -122,5 +134,3 @@
 ```
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:003554,100:0d1117&height=120&section=footer)
