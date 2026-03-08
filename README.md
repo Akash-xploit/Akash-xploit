@@ -18,35 +18,45 @@
 ```bash
 ┌─[SOC]─[Akash Reddy Kukkala]
 │
-├─ role       →  Blue Team Engineer
-├─ focus      →  Cloud Security (AWS / Azure)
-├─ secondary  →  DFIR · Threat Hunting · Detection Engineering
+├─ role       →  Aspiring Blue Team / Cloud Security Engineer
+├─ focus      →  AWS Security · Detection Engineering · SOC Operations
+├─ secondary  →  DFIR · Threat Hunting · Security Monitoring
 │
 ├─[CURRENT OPS]
 ├─ working on →  AWS Secure Vault
-├─ learning   →  Detection Engineering · SIEM · Cloud Threat Modeling
-├─ fun fact   →  I build security labs to break & defend my own systems
+├─ learning   →  AWS Security, Threat Detection, and SOC Workflows
+├─ fun fact   →  I like building security projects that feel like real-world operations.
 │
-└─ status     →  [██████████░░░░░░░░░░] Building Blue Team Arsenal
+└─ status     →  [██████████░░░░░░░░░░] SECURING THE STACK
 ```
 
 ---
 
 ## 📜 Certifications
 
-<div align="center">
+<p align="center">
 
-<!-- Add / remove badges to match your actual certs -->
-<!-- Generate custom ones at https://shields.io -->
+<a href="#">
+<img src="https://img.shields.io/badge/CDSA-In%20Progress-6A5ACD?style=for-the-badge&logoColor=white">
+</a>
 
-![AWS Security Specialty](https://img.shields.io/badge/AWS_Security_Specialty-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![SC-200](https://img.shields.io/badge/Microsoft_SC--200-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
-![CySA+](https://img.shields.io/badge/CompTIA_CySA%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
-![CEH](https://img.shields.io/badge/CEH-E60026?style=flat-square&logoColor=white)
-![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white)
+<a href="#">
+<img src="https://img.shields.io/badge/CompTIA_Security+-Certified-red?style=for-the-badge&logo=comptia&logoColor=white">
+</a>
 
-</div>
+<a href="#">
+<img src="https://img.shields.io/badge/eJPT-Certified-0A66C2?style=for-the-badge&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Microsoft_SC--900-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+</a>
+
+</p>
 
 ---
 
