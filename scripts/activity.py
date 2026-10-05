@@ -36,7 +36,7 @@ for _, _, n in cells:
 W, CELL, GAP = 1200, 17, 4
 weeks = (cells[-1][0] - cells[0][0]).days // 7 + 1
 grid_w = weeks * (CELL + GAP) - GAP
-x0, y0 = (W - grid_w) / 2, 110
+x0, y0 = (W - grid_w) / 2, 76
 H = y0 + 7 * (CELL + GAP) + 52
 
 start = cells[0][0] - dt.timedelta(days=(cells[0][0].weekday() + 1) % 7)
@@ -51,25 +51,15 @@ for d, lvl, n in cells:
         months.append(f'<text x="{x:.0f}" y="{y0 - 10}" class="mono" font-size="11" fill="{DIM}">{d:%b}</text>')
 
 def stat(x, label, value):
-    return (f'<text x="{x}" y="72" class="mono" font-size="11" fill="{DIM}">{label}</text>'
-            f'<text x="{x}" y="72" dx="{len(label) * 7 + 10}" class="sans" font-size="15" font-weight="600" fill="{TEXT}">{value}</text>')
+    return (f'<text x="{x}" y="36" class="mono" font-size="11" fill="{DIM}">{label}</text>'
+            f'<text x="{x}" y="36" dx="{len(label) * 7 + 10}" class="sans" font-size="15" font-weight="600" fill="{TEXT}">{value}</text>')
 
 legend_x = W - 24 - 5 * 15 - 70
 legend = "".join(f'<rect x="{legend_x + 38 + i * 15}" y="{H - 30}" width="11" height="11" rx="3" fill="{c}"/>' for i, c in enumerate(LEVELS))
 
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img">
 <style>.sans{{font-family:{SANS}}} .mono{{font-family:{MONO}}}</style>
-<defs><linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#fff" stop-opacity=".45"/><stop offset=".35" stop-color="#fff" stop-opacity=".06"/>
-  <stop offset=".7" stop-color="#fff" stop-opacity=".03"/><stop offset="1" stop-color="#fff" stop-opacity=".25"/>
-</linearGradient><clipPath id="win"><rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="12"/></clipPath></defs>
-<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="12" fill="{PANEL}" fill-opacity=".92"/>
-<g clip-path="url(#win)"><rect width="{W}" height="38" fill="#fff" fill-opacity=".045"/><rect y="38" width="{W}" height="1" fill="#fff" fill-opacity=".07"/></g>
-<circle cx="22" cy="19.5" r="6" fill="#ff5f57"/><circle cx="42" cy="19.5" r="6" fill="#febc2e"/><circle cx="62" cy="19.5" r="6" fill="#28c840"/>
-<text x="84" y="24" class="mono" font-size="12.5" fill="{BLUE}">~/activity</text>
-<text x="{W - 22}" y="25" text-anchor="end" class="sans" font-size="14" font-weight="600" fill="{TEXT}">Contribution activity</text>
-<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="12" fill="none" stroke="url(#rim)"/>
-<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="12" fill="none" stroke="{BLUE}" stroke-opacity=".28"/>
+<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="10" fill="{PANEL}" stroke="#fff" stroke-opacity=".08"/>
 {stat(x0, "contributions", f"{total:,}")}{stat(x0 + 230, "active days", active)}{stat(x0 + 420, "longest streak", f"{best}d")}
 {"".join(months)}
 {"".join(rects)}
