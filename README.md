@@ -37,7 +37,7 @@ status:     [██████████░░░░░░░░░░] secur
 <!-- Earned: 3DDC97 (green). In progress: F5B942 (amber). Spaces are _ and a real dash is -- --> 
 <p>
   <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Verified-3FA9F5?style=for-the-badge&labelColor=101826" alt="AWS Cloud Practitioner"/>
-  <img src="https://img.shields.io/badge/CompTIA_Security+-Verified-3FA9F5?style=for-the-badge&logo=comptia&logoColor=f2f6fb&labelColor=101826" alt="CompTIA Security+"/>
+  <img src="https://img.shields.io/badge/CompTIA_Security+-In_Progress-F5B942?style=for-the-badge&logo=comptia&logoColor=f2f6fb&labelColor=101826" alt="CompTIA Security+"/>
   <img src="https://img.shields.io/badge/eJPT-Verified-3FA9F5?style=for-the-badge&labelColor=101826" alt="eJPT"/>
   <img src="https://img.shields.io/badge/Microsoft_SC--900-Verified-3FA9F5?style=for-the-badge&labelColor=101826" alt="Microsoft SC-900"/>
   <img src="https://img.shields.io/badge/CDSA-In_Progress-F5B942?style=for-the-badge&logo=hackthebox&logoColor=f2f6fb&labelColor=101826" alt="CDSA"/>
