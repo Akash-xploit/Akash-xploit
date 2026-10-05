@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://akash-xploit.github.io/insighter-portfolio/"><img src="https://img.shields.io/badge/Portfolio-3FA9F5?style=for-the-badge&logo=googlechrome&logoColor=101826" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/akashkukkala/"><img src="https://img.shields.io/badge/LinkedIn-101826?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="mailto:akash.kukkala@outlook.com"><img src="https://img.shields.io/badge/Email-101826?style=for-the-badge&logo=maildotru&logoColor=3fa9f5" alt="Email"/></a>
   <a href="https://medium.com/@insighter9"><img src="https://img.shields.io/badge/Medium-101826?style=for-the-badge&logo=medium&logoColor=3fa9f5" alt="Medium"/></a>
