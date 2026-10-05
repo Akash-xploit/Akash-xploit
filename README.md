@@ -24,10 +24,7 @@
 
 <br/>
 
-<img src="assets/bar-activity.svg" width="100%" alt="~/activity"/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-xploit&bg_color=101826&color=a9b6c6&line=3fa9f5&point=f2f6fb&area=true&area_color=3fa9f5&hide_border=true&radius=10" width="100%" alt="Contribution activity graph"/>
-</p>
+<img src="assets/activity.svg" width="100%" alt="Contribution activity over the last 12 months"/>
 
 <br/>
 
